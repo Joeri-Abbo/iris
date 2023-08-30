@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/kataras/iris/v12 v12.2.0-beta2.0.20220605191257-288a67bc58fd
 	github.com/spf13/cobra v1.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
