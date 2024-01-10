@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/kataras/iris/v12 v12.2.5
-	github.com/quic-go/quic-go v0.39.0
+	github.com/quic-go/quic-go v0.39.4
 )
 
 require (
